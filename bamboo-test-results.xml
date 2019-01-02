@@ -1,0 +1,15 @@
+<testsuite name="TAP Tests" tests="13" failures="0" errors="0" skipped="0" timestamp="Fri, 06 Oct 2017 09:14:54 GMT" time="2.172">
+<testcase classname="" name="count » Bamboo API failed request - Incorrect projectSlug - http 404" time="0"/>
+<testcase classname="" name="count » Bamboo API failed request - non existant baseUrl - ETIMEDOUT" time="0"/>
+<testcase classname="" name="count » Bamboo API - successful request" time="0"/>
+<testcase classname="" name="count » Bamboo API failed request - Incorrect display - http 400" time="0"/>
+<testcase classname="" name="expection » Bamboo API failed request - Required parameter is not set - TypeError Exception" time="0"/>
+<testcase classname="" name="expection » Bamboo API failed request - Required parameter is not set - TypeError Exception" time="0"/>
+<testcase classname="" name="expection » Bamboo API failed request - Required parameter is not set - TypeError Exception" time="0"/>
+<testcase classname="" name="Advancedprogress » Bamboo API failed request - Incorrect projectSlug - http 404" time="0"/>
+<testcase classname="" name="Advancedprogress » Bamboo API failed request - non existant baseUrl - ETIMEDOUT" time="0"/>
+<testcase classname="" name="Advancedprogress » Bamboo API - successful request" time="0"/>
+<testcase classname="" name="Advancedissues » Bamboo API failed request - Incorrect projectSlug - http 404" time="0"/>
+<testcase classname="" name="Advancedissues » Bamboo API failed request - non existant baseUrl - ETIMEDOUT" time="0"/>
+<testcase classname="" name="Advancedissues » Bamboo API - successful request" time="0"/>
+</testsuite>
